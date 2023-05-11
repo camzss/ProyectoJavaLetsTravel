@@ -12,5 +12,6 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class DestinoForm {
-    
+    private int id_destino;
+
 }
